@@ -1,1 +1,1 @@
-# saas-builder
+# SaaS Builder - Starter\n\nEste repositório é um starter minimal para o seu SaaS que gera SaaS.\n\nInstruções:\n1) Configure NEXT_PUBLIC_SUPABASE_* na Vercel\n2) Configure GITHUB_TOKEN\n3) Rode `npm install` e `npm run dev`\n
